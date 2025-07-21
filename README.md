@@ -1,4 +1,6 @@
 # TensorFlow
+TensorFlow is a powerful Python library developed by Google for building and training machine learning and deep learning models using data flow graphs and tensors.
+---
 Be sure to "conda install tensorflow" or "conda install tensorflow-gpu" first!
 
 The world's simplest Tensorflow application
